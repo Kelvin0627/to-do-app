@@ -50,8 +50,7 @@ Follow these steps to set up the project:
     - Create a `.env` file in the root of the project
     - Add the following environment variables:
         ```env
-        MONGO_URI=mongodb://localhost:27017/todoapp
-        PORT=3000
+        MONGO_DB_URI=mongodb://localhost:27017/todoapp
         ```
 
 5. **Start the application:**
